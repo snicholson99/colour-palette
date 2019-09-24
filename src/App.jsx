@@ -4,7 +4,7 @@ import './App.css';
 const App = () => {
   return (
     <div className="App">
-      <h1>React App Boilerplate</h1>
+      <h1>Colour Palette</h1>
       
     </div>
   );

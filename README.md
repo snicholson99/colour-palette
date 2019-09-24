@@ -1,8 +1,7 @@
-# React Boilerplate
-A React boilerplate created using create-react-app. Includes SCSS build and watch scripts.
+# Colour Palette
 
 ### Build Instructions
-    git clone https://github.com/snicholson99/react-boilerplate  
-    cd ./react-boilerplate  
+    git clone https://github.com/snicholson99/colour-palette  
+    cd ./colour-palette
     npm i
     npm start    
